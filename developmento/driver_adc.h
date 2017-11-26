@@ -2,7 +2,7 @@
  * @2017 Brazilian Agricultural Research Corporation | Embrapa Instrumentation
  *------------------------------------------------------------------------------
  * @PROJECT 
- * Adaptation of TDI for the Telegesis® ETRX357 ZigBee Radio Module
+ * Adaptation of TDI for the TelegesisÂ® ETRX357 ZigBee Radio Module
  *------------------------------------------------------------------------------
  * @DESCRIPTION
  *  Analog-Digital Converter driver.
@@ -12,9 +12,9 @@
  *  File type: Header (.h)  
  *------------------------------------------------------------------------------
  * @DEVELOPMENT
- *  MCU:       Microchip® PIC16LF88
- *  IDE:       MPLAB® X v3.50  
- *  Compiler:  MPLAB® XC8 v1.40
+ *  MCU:       MicrochipÂ® PIC16LF88
+ *  IDE:       MPLABÂ® X v3.50  
+ *  Compiler:  MPLABÂ® XC8 v1.40
  *------------------------------------------------------------------------------
  * @AUTHOR 
  *  Name:   Andre Marcos Perez
@@ -45,7 +45,7 @@
 
 /**
  * @Include
- *  MPLAB® XC8 v1.40 compiler library
+ *  MPLABÂ® XC8 v1.40 compiler library
  *  uP library
  */
 #ifndef COMPILER
